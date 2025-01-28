@@ -30,6 +30,7 @@ Below are some commonly used Maven commands:
 # Creating a Maven Project Skeleton  
 
 # Project Structure
+```
 myproject/
  ├── pom.xml
  ├── src/
@@ -43,6 +44,7 @@ myproject/
  │           └── com/
  │               └── example/
  │                   └── AppTest.java
+```
 
 To create a new Maven project skeleton, use the following command:  
 
